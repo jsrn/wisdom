@@ -35,13 +35,11 @@ quotes = <<~QUOTES
 
   "Comparison is the thief of joy."
   - Theodore Roosevelt
-
-  "Live, laugh, love."
 QUOTES
 
 quote_array = quotes.strip.split("\n\n")
 
-TREES = ['🌲', '🌳', '🌲', '🌳', '💐', '🌺']
+TREES = ['🌲', '🌳', '🌲', '🌳', '🦮']
 
 40.times { print TREES.sample }
 puts ''
