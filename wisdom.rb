@@ -35,6 +35,8 @@ quotes = <<~QUOTES
 
   "Comparison is the thief of joy."
   - Theodore Roosevelt
+
+  "People don't want to use your service. Make it easy for them not to."
 QUOTES
 
 quote_array = quotes.strip.split("\n\n")
