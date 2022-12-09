@@ -37,6 +37,9 @@ quotes = <<~QUOTES
   - Theodore Roosevelt
 
   "People don't want to use your service. Make it easy for them not to."
+
+  "There's no such thing as a temporary solution."
+  - Tanya Reilly, The Staff Engineer's Path
 QUOTES
 
 quote_array = quotes.strip.split("\n\n")
